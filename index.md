@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Wow
 ---
 
+# Chapter One
+
+yada yada yada
